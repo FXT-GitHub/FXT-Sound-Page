@@ -1,6 +1,6 @@
 :root {
   /* --primary-color: #ec1f55; */
-  --primary-color: #0ccf1c;
+  --primary-color: #0ccf1ca8;
   --text-color: #333;
 }
 
@@ -45,7 +45,7 @@ html {
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
   padding: 16px 16px 14px;
-  background-color: #fff;
+  background-color: #ffffffac;
   position: fixed;
   top: 0;
   width: 100%;
@@ -171,6 +171,7 @@ header h2 {
   overflow: auto;
   height: 100vh;
 }
+
 .playlist::-webkit-scrollbar {
   display: none;
 }
@@ -250,28 +251,31 @@ header h2 {
   body {
     background: #d3d3d3;
   }
+
   .song {
     margin: 0 16px 12px;
   }
+
   .song .title {
     font-size: 14px;
   }
+
   .song .author {
     font-size: 13px;
   }
 }
 
-@media (min-width: 1024px) {
-
-}
+@media (min-width: 1024px) {}
 
 @keyframes delay {
+
   0%,
   40%,
   100% {
     transform: scaleY(0.05);
     -webkit-transform: scaleY(0.05);
   }
+
   20% {
     transform: scaleY(1);
     -webkit-transform: scaleY(1);
