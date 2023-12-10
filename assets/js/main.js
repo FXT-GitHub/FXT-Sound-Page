@@ -47,6 +47,12 @@ const app = {
       path: './assets/music/2.mp3',
       image: 'https://i.ytimg.com/vi/Qs-XcmaxaLw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY4uhNK3on1fSUHHHWuPqYPqtoGA',
     },
+    {
+      name: '多情種  胡楊林今生已不再...',
+      singer: 'Thể loại: China music',
+      path: './assets/music/3.mp3',
+      image: 'https://i.ytimg.com/vi/VV6SiG3S2K8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJ1sY9pa3WyU4-3fIq7e4FFeY6pg',
+    },
     // {
     //   name: '',
     //   singer: '',
