@@ -48,6 +48,24 @@ const app = {
       image: 'https://i.ytimg.com/vi/Qs-XcmaxaLw/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDY4uhNK3on1fSUHHHWuPqYPqtoGA',
     },
     {
+      name: 'Phía sau một cô gái',
+      singer: 'Thể loại: Nhạc Việt (Soobin Hoàng Sơn)',
+      path: './assets/music/4.mp3',
+      image: 'https://i.ytimg.com/vi/j__Q13iAxNk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAYvgC8n9HOxGNKJKjHhYBP18tcYQ',
+    },
+    {
+      name: 'Khi người lớn cô đơn',
+      singer: 'Thể loại: Nhạc Việt (Phạm Hồng Phước)',
+      path: './assets/music/5.mp3',
+      image: 'https://i.ytimg.com/vi/sU2V9ZSNqQE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyxhFei6nAICTyRyvTn-Ffj3QL4A',
+    },
+    {
+      name: 'Giá như có thể ôm ai và khóc',
+      singer: 'Thể loại: Nhạc Việt (Phạm Hồng Phước)',
+      path: './assets/music/6.mp3',
+      image: 'https://i.ytimg.com/vi/xTl9dRnactg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYpWJrvgq_Zs-ACRIb9fbVltSI4A',
+    },
+    {
       name: '多情種  胡楊林今生已不再...',
       singer: 'Thể loại: China music',
       path: './assets/music/3.mp3',
